@@ -1,0 +1,18 @@
+{
+  "name": "autporro",
+  "main": "js/eth-metagrid.module.js",
+  "description": "integrates metagrid api into primo VE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliffordGrimes/autporro.git"
+  },
+  "author": "AnnettaLehner",
+  "version": "1.0.0",
+  "keywords": [
+    "mollitia"
+  ],
+  "bugs": {
+    "url": "https://github.com/CliffordGrimes/autporro.git/issues"
+  },
+  "homepage": "https://github.com/CliffordGrimes/autporro.git"
+}
